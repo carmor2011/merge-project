@@ -1,0 +1,12 @@
+{
+  "name": "merge-project",
+  "version": "1.0.0",
+  "description": "SDT - Reconciliation Process",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
